@@ -1,7 +1,7 @@
 # Counting Sort
 
 ### 원소간 비교없이 정렬
-### 시간복잡도: O(n)(최악의 경우 O(n^2))
+### 시간복잡도: O(n)
 
 1. inputArray 배열 생성
 2. inputArray 에 Element 입력

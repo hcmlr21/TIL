@@ -6,7 +6,8 @@
 * Heap order property : 
   - 각 노드의 값은 자신의 자식노드가 가진 값보다 크거나 같다(최대 힙, Max heap). 
   - 각 노드의 값은 자신의 자식노드가 가진 값보다 작거나 같다(최소 힙, Min heap).
-* Heap shape property : 완전이진트리 만족. 마지막 레벨을 제외한 모든 레벨에 노드가 채워져 있고 마지막 레벨의 노드에는 왼쪽에 쏠려 있다.
+* Heap shape property : 완전이진트리 만족.  
+(*완전이진트리: 마지막 레벨을 제외한 모든 레벨에 노드가 채워져 있고 마지막 레벨의 노드에는 왼쪽에 쏠려 있는 형태.)
   
 ### Index
 * parent index = child index / 2

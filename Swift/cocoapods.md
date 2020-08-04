@@ -12,8 +12,9 @@ pod init
 ```
 4. Open Podfile in your Directory
 5. Add dependency in Podfile
-EX)
 ```
+EX)
+
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 

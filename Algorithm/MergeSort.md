@@ -7,6 +7,7 @@
 입력받은 Elements를 길이가 1이 될 때까지 반으로 나눈 후 병합할 때 크기 비교를 하여 새로운 배열을 만든다.  
 새로만든 배열은 오름차순으로 정렬된 상태이므로 두 배열을 비교할 때 본인 배열을 신경쓸 필요없다.  
 
+### CODE
 ```
 func merge(arr: inout [Int], l: Int, m: Int, r: Int) {
     let n1: Int = m - l + 1

@@ -17,7 +17,7 @@
 12. sortedArray[countingArray[x]] = x
 13. inputArray 배열의 모든 값을 방문하여 위 과정 반복 
 
-
+###CODE
 ```
 var array:[Int] = []
 var MAX = 0

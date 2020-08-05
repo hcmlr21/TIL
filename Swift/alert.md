@@ -1,6 +1,6 @@
 # alert
 
-### code
+### CODE
 
 ```
 let alert = UIAlertController(title: "title", message: "message", preferredStyle: .alert)

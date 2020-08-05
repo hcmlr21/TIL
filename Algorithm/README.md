@@ -1,3 +1,3 @@
 # README
 
-## Code is written with Swift language
+## Code is written in Swift language

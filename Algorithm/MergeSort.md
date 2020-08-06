@@ -1,6 +1,8 @@
 # Merge Sort
-### 시간복잡도: O(nlog n)
-
+### 시간복잡도
+Best, Average, Worst: O(nlog n)  
+  
+### 과정
 입력받은 Elements의 Array를 길이가 1이 될 때 까지 반으로 나눔.  
 두 배열의 값들을 비교하여 작은 값을 앞으로 배치하며 하나의 배열로 만듬, 원래 길이가 될 때까지 반복.  
   

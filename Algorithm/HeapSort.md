@@ -1,8 +1,8 @@
 # Heap Sort
-### 시간복잡도: O(nlog n)
-
-#### Definition
-힙(Heap)을 이용한 정렬 
+### 시간복잡도
+O(nlog n)  
+  
+### 힙(Heap)을 이용한 정렬 
   
 ### 힙(Heap) 이란?  
 아래 두 가지 성질을 만족하는 자료구조

@@ -1,8 +1,13 @@
 # Counting Sort
-### 시간복잡도: O(n)
-  
-### 원소간 비교없이 정렬
+### 시간복잡도
+Best, Average, Worst: O(n)
 
+### 특징
+원소간 비교없이 정렬  
+음수는 정렬하기 힘듬  
+메모리낭비가 심함  
+
+### 과정
 1. inputArray 배열 생성
 2. inputArray 에 Element 입력
 3. N = inputArray 배열의 크기

@@ -1,7 +1,7 @@
 # Quick Sort
 ### 시간복잡도
-Best, Average :O(n^2)
-Worst: O(n^2)
+Best, Average :O(nlong n)  
+Worst: O(n^2)  
 
 ### 특징 
 Divide And Conquer

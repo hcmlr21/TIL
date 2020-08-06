@@ -1,7 +1,7 @@
 # Counting Sort
-
-### 원소간 비교없이 정렬
 ### 시간복잡도: O(n)
+  
+### 원소간 비교없이 정렬
 
 1. inputArray 배열 생성
 2. inputArray 에 Element 입력
@@ -17,7 +17,7 @@
 12. sortedArray[countingArray[x]] = x
 13. inputArray 배열의 모든 값을 방문하여 위 과정 반복 
 
-###CODE
+### CODE
 ```
 var array:[Int] = []
 var MAX = 0

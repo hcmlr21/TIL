@@ -2,7 +2,7 @@
 
 ### Protocol
 
-'''
+```
 struct Person: Codable {
     var name: String?
     var age: Int?
@@ -13,4 +13,4 @@ struct Person: Codable {
         case birthDay = "birth_day"
     }
 }
-'''
+```
